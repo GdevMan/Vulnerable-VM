@@ -113,6 +113,13 @@ By working through this VM, you should practice:
 
 - Any hypervisor that supports qcow2
 
+## Download
+
+The practice VM image can be downloaded here:  
+[ubuntu16.04.qcow2.xz](https://drive.google.com/file/d/1VvH--ka__rPfl0YOAeq_UsJCAd3wbWSA/view?usp=sharing)
+
+
+
 ## Legal Notice
 
 This virtual machine is intentionally insecure and provided as‑is for educational purposes.
